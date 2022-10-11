@@ -11,7 +11,7 @@ public class Program
     {
         Console.WriteLine("The dimensions of a rectangle are: 5 cm and 3 cm.");
         Console.WriteLine("The area is: " + (5 * 3) + "cm²");
-        Console.WriteLine("The perimter is: " + ((5 + 3) * 2) + "cm ");
+        Console.WriteLine("The perimeter is: " + ((5 + 3) * 2) + "cm ");
         Console.WriteLine("\nDone.");
     }
 }
